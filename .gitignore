@@ -1,0 +1,6 @@
+# /react-redux/node_modules/
+# /react-redux/yarn.lock
+# /sync-redux/node_modules/
+# /sync-redux/yarn.lock
+/*/yarn.lock
+/*/node_modules/
